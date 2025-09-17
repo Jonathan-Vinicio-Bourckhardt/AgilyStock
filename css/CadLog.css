@@ -1,0 +1,18 @@
+body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      background: #fff;
+      border: 2px solid #7c3aed; /* borda roxa igual da imagem */
+    }
+    .btn-custom {
+      background-color: #000;
+      color: #fff;
+      border-radius: 6px;
+      padding: 10px 20px;
+    }
+    .btn-custom:hover {
+      background-color: #333;
+      color: #fff;
+    }
